@@ -13,13 +13,13 @@ Aplicación Java Web usando RAP (Remote Application Platform).
 1. Clon
 
 	```
-	git clone https://github.com/humbertodias/eclipse-rap.git
+	git clone https://github.com/humbertodias/java-eclipse-rap-demo.git
 	```
 
 2. Entrar en la carpeta
 
 	```
-	cd eclipse-rap
+	cd java-eclipse-rap-demo
 	```
 
 3. Correr 
