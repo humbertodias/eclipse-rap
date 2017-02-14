@@ -23,10 +23,21 @@ Aplicación Java Web usando RAP (Remote Application Platform).
 	```
 
 3. Correr 
-
+	
+	### http/1
+	
 	```
 	mvn jetty:run -Djetty.http.port=9999
 	```
+	
+	ou
+	
+	### http/2
+	
+	```
+	mvn -f pom.http2.xml jetty:runorked
+	```
+	
 	
 	```
 	[INFO] Started ServerConnector@715b886f{HTTP/1.1,[http/1.1]}{0.0.0.0:9999}
@@ -38,7 +49,14 @@ Aplicación Java Web usando RAP (Remote Application Platform).
 	
 4. Por último, en su navegador
 
-[http://localhost:9999/demo](http://localhost:9999/demo)
+	### http/1
+
+	[http://localhost:9999/demo](http://localhost:9999/demo)
+
+	### http/2
+
+	[https://localhost:8444/demo](https://localhost:8444/demo)
+
 
 # Salida
 
