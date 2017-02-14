@@ -35,7 +35,7 @@ Aplicación Java Web usando RAP (Remote Application Platform).
 	### http/2
 	
 	```
-	mvn -f pom.http2.xml jetty:runorked
+	mvn -f pom.http2.xml jetty:runforked
 	```
 	
 	
