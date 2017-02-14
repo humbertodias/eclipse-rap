@@ -65,4 +65,6 @@ Aplicación Java Web usando RAP (Remote Application Platform).
 
 ## Referencias
 
-[RAP Remote Application Platform](http://www.eclipse.org/rap/)
+1. [RAP Remote Application Platform](http://www.eclipse.org/rap/)
+2. [Jetty Maven Plugin](http://www.eclipse.org/jetty/documentation/current/jetty-maven-plugin.html)
+
